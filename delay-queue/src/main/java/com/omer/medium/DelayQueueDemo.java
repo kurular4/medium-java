@@ -2,7 +2,7 @@ package com.omer.medium;
 
 import java.util.concurrent.DelayQueue;
 
-public class Demo {
+public class DelayQueueDemo {
 
     public static void main(String[] args) {
         DelayQueue<DelayedItem> delayedItems = new DelayQueue<>();
