@@ -20,5 +20,8 @@ public class CompletableFutureDemo {
                 .thenAccept(path -> {
                     // some logic
                 });
+
+        // add this to see output properly
+        // while (true);
     }
 }
