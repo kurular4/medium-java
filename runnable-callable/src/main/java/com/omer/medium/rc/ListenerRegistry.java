@@ -1,4 +1,4 @@
-package com.omer.medium;
+package com.omer.medium.rc;
 
 import java.util.ArrayList;
 import java.util.List;

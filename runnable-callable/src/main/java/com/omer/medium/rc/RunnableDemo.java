@@ -1,4 +1,4 @@
-package com.omer.medium;
+package com.omer.medium.rc;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

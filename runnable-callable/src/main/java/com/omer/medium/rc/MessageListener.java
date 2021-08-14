@@ -1,4 +1,4 @@
-package com.omer.medium;
+package com.omer.medium.rc;
 
 @FunctionalInterface
 public interface MessageListener {

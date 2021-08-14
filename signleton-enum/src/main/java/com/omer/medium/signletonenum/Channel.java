@@ -1,4 +1,4 @@
-package com.omer.medium;
+package com.omer.medium.signletonenum;
 
 public enum Channel {
     INSTANCE;

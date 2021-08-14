@@ -1,4 +1,4 @@
-package com.omer.medium;
+package com.omer.medium.sh;
 
 public class CustomShutdownHook extends Thread {
     private final NetworkService networkService;

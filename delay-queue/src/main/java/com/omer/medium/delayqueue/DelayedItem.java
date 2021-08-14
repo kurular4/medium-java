@@ -1,4 +1,4 @@
-package com.omer.medium;
+package com.omer.medium.delayqueue;
 
 import java.util.concurrent.Delayed;
 import java.util.concurrent.TimeUnit;

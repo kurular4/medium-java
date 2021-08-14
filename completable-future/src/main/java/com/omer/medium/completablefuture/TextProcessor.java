@@ -1,4 +1,4 @@
-package com.omer.medium;
+package com.omer.medium.completablefuture;
 
 public class TextProcessor implements Runnable {
 

@@ -1,4 +1,4 @@
-package com.omer.medium;
+package com.omer.medium.sh;
 
 public class ShutdownHooksDemo {
     public static void main(String[] args) {
