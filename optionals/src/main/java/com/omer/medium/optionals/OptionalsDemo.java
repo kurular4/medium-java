@@ -53,6 +53,15 @@ public class OptionalsDemo {
         ObjectCache.INSTANCE.get("key").ifPresent(object -> {
             System.out.println("I do exist");
         });
+
+        // map
+        Optional<String> stringOptional3 = Optional.of("Hi, there!");
+        int length = stringOptional3.map(String::length).orElse(0);
+        System.out.println("Length:" + length);
+
+        //filter
+        Optional<String> stringOptional4 = Optional.of("I love java");
+        stringOptional4.filter(str -> str.endsWith("java")).ifPresent(System.out::println);
     }
 
     public static String getStr() {
